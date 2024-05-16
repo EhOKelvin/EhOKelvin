@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Backend Developer<br>🌎 Brazil
+🔭 Back end student<br>🌎 Brazil
 
 
 # 💻 Tech Stack:
